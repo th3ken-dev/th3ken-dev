@@ -1,6 +1,6 @@
 # 👋 Merhaba! Ben TH3KEN
 
-Tam yığın geliştiriciyim ve çoğunlukla Flutter , Visual Studio , QT kullanıyorum.
+geliştiriciyim ve çoğunlukla Flutter , Visual Studio , QT kullanıyorum.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=th3ken-dev&label=Views&color=blue&style=plastic" alt="th3ken-dev" /> </p>
 
