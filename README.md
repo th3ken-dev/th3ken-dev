@@ -19,7 +19,9 @@ geliştiriciyim ve çoğunlukla Flutter , Visual Studio , QT kullanıyorum.
 
 <p align="center">
   
-  <img src="https://github-readme-stats.vercel.app/api?username=AlyenJS&count_private=true&show_icons=true&theme=dark&hide_border=true" width="%100" height="150px" alt="" />
+  <img src="" width="%100" height="150px" alt="" />
+
+  [![TH3KEN github bilgileri](https://github-readme-stats.vercel.app/api?username=AlyenJS&count_private=true&show_icons=true&theme=dark&hide_border=true)](https://github.com/th3ken-dev)
 
 
 
