@@ -1,6 +1,6 @@
-# 👋 Merhaba! Ben TH3KEN
+<h2 align="center">Merhaba! Ben TH3KEN 👋</h2>
 
-geliştiriciyim ve çoğunlukla Flutter , Visual Studio , QT kullanıyorum.
+Geliştiriciyim ve çoğunlukla Flutter , Visual Studio , QT ve diğer diller kullanıyorum.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=th3ken-dev&label=Views&color=blue&style=plastic" alt="th3ken-dev" /> </p>
 
@@ -10,12 +10,11 @@ geliştiriciyim ve çoğunlukla Flutter , Visual Studio , QT kullanıyorum.
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=th3ken-dev&theme=light&hide_langs_below=1" />
 </a>
 
-<h2 align="center">Merhaba! Ben TH3KEN 🌍</h2>
 <p align="center">
-  <a href="https://open.spotify.com/user/uj32hgcfc4vsx5rbkicjkyqlo" target"blank_"><img src="https://img.shields.io/badge/Spotify%20-1ed760.svg?&style=for-the-badge&logo=spotify&logoColor=white"></a>
+  <a href="" target"blank_"><img src="https://img.shields.io/badge/Spotify%20-1ed760.svg?&style=for-the-badge&logo=spotify&logoColor=white"></a>
 </a>
-  <a href="https://www.instagram.com/amonnq/" target"blank_"><img src="https://img.shields.io/badge/INSTAGRAM%20-DC3175.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>
-  <a href="https://github.com/Amonn-dev" target"blank_"><img src="https://img.shields.io/badge/GitHub%20-191717.svg?&style=for-the-badge&logo=github&logoColor=white"></a>
+  <a href="https://www.instagram.com/tolga_official_0x4/" target"blank_"><img src="https://img.shields.io/badge/INSTAGRAM%20-DC3175.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>
+  <a href="https://github.com/th3ken-dev" target"blank_"><img src="https://img.shields.io/badge/GitHub%20-191717.svg?&style=for-the-badge&logo=github&logoColor=white"></a>
 </p>
 
 <p align="center">
