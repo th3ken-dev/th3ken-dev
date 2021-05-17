@@ -19,14 +19,8 @@ geliştiriciyim ve çoğunlukla Flutter , Visual Studio , QT kullanıyorum.
 </p>
 
 <p align="center">
-  
-  <img src="https://github-readme-stats.vercel.app/api?username=AlyenJS&count_private=true&show_icons=true&theme=dark&hide_border=true" width="%100" height="150px" alt="" />
 
-
-
-  
-
-### Languages and Tools:
+*** Diller:
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
