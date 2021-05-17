@@ -10,6 +10,7 @@ geliştiriciyim ve çoğunlukla Flutter , Visual Studio , QT kullanıyorum.
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=th3ken-dev&theme=light&hide_langs_below=1" />
 </a>
 
+<h2 align="center">Merhaba! Ben TH3KEN 🌍</h2>
 <p align="center">
   <a href="https://open.spotify.com/user/uj32hgcfc4vsx5rbkicjkyqlo" target"blank_"><img src="https://img.shields.io/badge/Spotify%20-1ed760.svg?&style=for-the-badge&logo=spotify&logoColor=white"></a>
 </a>
@@ -19,9 +20,7 @@ geliştiriciyim ve çoğunlukla Flutter , Visual Studio , QT kullanıyorum.
 
 <p align="center">
   
-  <img src="" width="%100" height="150px" alt="" />
-
-  [![TH3KEN github bilgileri](https://github-readme-stats.vercel.app/api?username=AlyenJS&count_private=true&show_icons=true&theme=dark&hide_border=true)](https://github.com/th3ken-dev)
+  <img src="https://github-readme-stats.vercel.app/api?username=AlyenJS&count_private=true&show_icons=true&theme=dark&hide_border=true" width="%100" height="150px" alt="" />
 
 
 
