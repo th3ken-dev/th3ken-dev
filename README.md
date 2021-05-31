@@ -1,6 +1,6 @@
 <h2 align="center">Merhaba! Ben TH3KEN 👋</h2>
 
-Geliştiriciyim ve çoğunlukla Flutter , Visual Studio , QT ve diğer diller kullanıyorum.
+Geliştiriciyim ve çoğunlukla Reverse Engineering , Visual Studio , QT ve diğer diller kullanıyorum.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=th3ken-dev&label=Views&color=blue&style=plastic" alt="th3ken-dev" /> </p>
 
